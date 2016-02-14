@@ -1,0 +1,17 @@
+Is your pokemon legendary?
+Does your pokemon have more than one type?
+Is your pokemon a flying type?
+Is your pokemon a water type?
+Is your pokemon a fire type
+Is your pokemon an electric type?
+Is your pokemon a psychic type?
+Is your pokemon an ice type?
+Is your pokemon a fighting type?
+Is your pokemon a dark type?
+Is your pokemon a grass type?
+Is your pokemon a normal type?
+Does your pokemon have a tail?
+Does your pokemon have two legs?
+Does your pokemon have a mega evolution?
+Does your pokemon have two arms?
+Is your pokemon offensive?
